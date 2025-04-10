@@ -4,4 +4,4 @@
 
 langs
 
-https://www.w3schools.com/cs/ https://www.python.org/
+cs , py
