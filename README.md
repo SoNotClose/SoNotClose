@@ -4,4 +4,4 @@
 
 langs
 
-cs , py and i very very very tiny bit of js
+cs , py , js(kinda) , LUAAAAAAAAAAAAAA
