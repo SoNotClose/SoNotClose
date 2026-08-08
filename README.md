@@ -10,7 +10,7 @@
 - 🌐 i spend more time finding out about the games code than playing it
 - 🎮 i play mostly FPS titles
 - 🦝 if u cant tell i love raccoons
-- 🥖 au cas où tsavais pas jparle francais des fois
+- 🥖 au cas ou tsavais pas jparle francais des fois
 - no that doesnt mean i cheat in every game i play
 
 
@@ -61,3 +61,8 @@
 </p>
 
 ---
+
+## 🦝 socials
+
+* 💬 discord: sonotclose
+* 🎮 steam: sonotclose
