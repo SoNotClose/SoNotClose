@@ -6,10 +6,20 @@
 
 ## abt me
 
-* 💻 mainly coding in **C#** 
-* 🌐 i spend more time finding out about the games code than playing it
-* 🎮 i play mostly FPS titles
-*  no that doesnt mean i cheat in every game i play
+- 💻 mainly coding in **C#** sometimes python
+- 🌐 i spend more time finding out about the games code than playing it
+- 🎮 i play mostly FPS titles
+- no that doesnt mean i cheat in every game i play
+
+---
+
+## what im listening to
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dufu2qo5yl2mtwmjj3b5okyix4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=7a7a7a">
+  </a>
+</p>
 
 ---
 
