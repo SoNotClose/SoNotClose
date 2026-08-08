@@ -4,16 +4,29 @@
 
 ---
 
-## abt me
+## 🦝 abt me
 
 - 💻 mainly coding in **C#** sometimes python
 - 🌐 i spend more time finding out about the games code than playing it
 - 🎮 i play mostly FPS titles
+- 🦝 if u cant tell i love raccoons
+- 🥖 au cas où tsavais pas jparle francais des fois
 - no that doesnt mean i cheat in every game i play
+
+
 
 ---
 
-## what im listening to
+## 🦝 programming langs i use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,lua,js,ts,unity,git,github" />
+</p>
+
+
+---
+
+## 🦝 what im listening to
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -23,7 +36,7 @@
 
 ---
 
-## my discord status
+## 🦝 my discord status
 
 <p align="center">
   <a href="https://discord.com/users/1083590655521071134">
@@ -31,3 +44,20 @@
   </a>
 </p>
 
+---
+
+## 🦝 stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sonotclose&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sonotclose&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sonotclose&layout=compact&theme=github_dark" />
+</p>
+
+---
